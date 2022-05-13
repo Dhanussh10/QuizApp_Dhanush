@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "question": "When does a new moon occur?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "Every 15 days", "isCorrect": true },
+      { "option": "Every 10 days", "isCorrect": false },
+      { "option": "Every 11 days", "isCorrect": false },
+      { "option": "Every 9 days", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "When are the primitive data types in JavaScript?",
+    "questionType": "checkbox",
+    "answerOptions": [
+      { "option": "string", "isCorrect": true },
+      { "option": "boolean", "isCorrect": true },
+      { "option": "object", "isCorrect": false },
+      { "option": "array", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "List down all the lifecycle methods in React",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "componentDidMount", "isCorrect": true }]
+  },
+  {
+    "id": 4,
+    "question": "What was the famous route for trade in ancient china",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "The silk road", "isCorrect": true },
+      { "option": "The rail road", "isCorrect": false },
+      { "option": "xianying Ti cross line", "isCorrect": false },
+      { "option": "lijing lan", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "who is the current president of united states of America",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "Donald Trump Jr", "isCorrect": false },
+      { "option": "Jimmy Carter", "isCorrect": false },
+      { "option": "Joe Biden", "isCorrect": true },
+      { "option": "Barrack Obama", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "check all the famous dynasties of the world",
+    "questionType": "checkbox",
+    "answerOptions": [
+      { "option": "The Mauryan dynasty", "isCorrect": true },
+      { "option": "The Tesla", "isCorrect": false },
+      { "option": "The Mughul Empire", "isCorrect": true },
+      { "option": "The Monghol Empire", "isCorrect": true },
+      { "option": "The Quing dynasty", "isCorrect": true },
+      { "option": "Kingdoms of Norse", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Which indian movie crossed 1000cr mark in 2022",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "KGF CHAPTER-2", "isCorrect": true },
+      { "option": "Bola Pandey", "isCorrect": false },
+      { "option": "Priest", "isCorrect": false },
+      { "option": "sooryavamshi", "isCorrect": false }
+    ]
+  }
+]
